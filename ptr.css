@@ -1,0 +1,40 @@
+/*
+Project Name: Pacific Trails Resorts (HW15)
+Author: Aleah Kirklin
+Date: 04/03/19
+*/
+
+/* Set the body, background, text, color, and font style */
+body {  background-color: #FFFFFF;
+        color: #666666;
+        font-family: Verdana, Arial, sans-serif;
+        }
+
+/* Set the header background, text color, and make it centered */
+header { background-color: #000033;
+         color: #FFFFFF;"
+         font-family: Georgia, sans-serif;
+         }
+
+/* Make h1 take up more vertical space */
+h1 { line-height: 200%; }
+
+nav { font-weight: bold;
+      background-color: #90C7E3; }
+
+h2 { color: #3399CC;
+     font-family: Georgia, sans-serif; }
+
+dt { color: #000033;
+     font-weight: bold; }
+
+.resort { color: #000033;
+         font-size: 1.2em; }
+
+#wrapper { margin-left: auto;
+           margin-right: auto;
+           width: 80%; }
+
+footer { font-size: .70em;
+         font-style: italic;
+         text-align: center; }
